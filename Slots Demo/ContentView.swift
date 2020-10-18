@@ -117,7 +117,6 @@ struct ContentView: View {
                         .background(Color.pink)
                         .cornerRadius(20)
                 }
-                Spacer()
             }
         }
     }
